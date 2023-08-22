@@ -1,4 +1,4 @@
-from math-operations import MyMathOperations
+from util.math-operations import MyMathOperations
 
 # Instantiating the class with a factor of 2.
 myMath = MyMathOperations(2)
