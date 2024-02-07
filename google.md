@@ -28,7 +28,9 @@ This document describes the process of setting up the capability to generate out
 
 # Create a Project in the Google Cloud Console and Enable APIs
 
-## Step 1: Access Google Cloud Platform[<div style="text-align: right; font-size: 9px">Go to Table of Contents</div>](#table-of-contents)
+## Step 1: Access Google Cloud Platform
+<p align="right"><a href="#table-of-contents">Go to Table of Contents</a></p>
+
 Access your Google Cloud Platform (GCP) [console dashboard](https://console.cloud.google.com/home/dashboard). 
 <br>
 
@@ -37,7 +39,8 @@ Access your Google Cloud Platform (GCP) [console dashboard](https://console.clou
 <br>
 <br>
 
-## Step 2: Create a New Project [<div style="text-align: right; font-size: 9px">Go to Table of Contents</div>](#table-of-contents)
+## Step 2: Create a New Project
+<p align="right"><a href="#table-of-contents">Go to Table of Contents</a></p>
 
 After navigating to the cloud platform, you will need to create a new project. Click on the project box next to the Google Cloud Logo and select the resource (organization) the project will be associated with, then click on "NEW PROJECT".
 
@@ -46,7 +49,8 @@ After navigating to the cloud platform, you will need to create a new project. C
 <br>
 <br>
 
-## Step 3: Set up the New Project[<div style="text-align: right; font-size: 9px">Go to Table of Contents</div>](#table-of-contents)
+## Step 3: Set up the New Project
+<p align="right"><a href="#table-of-contents">Go to Table of Contents</a></p>
 
 Set up the name of the new project and the location, if different from default. This will probably depend on internal information security rules, so you can configure this by your internal data security policies.
 
@@ -54,7 +58,8 @@ Set up the name of the new project and the location, if different from default. 
 <br>
 <br>
 
-## Step 4: Enable APIs[<div style="text-align: right; font-size: 9px">Go to Table of Contents</div>](#table-of-contents)
+## Step 4: Enable APIs
+<p align="right"><a href="#table-of-contents">Go to Table of Contents</a></p>
 
 Now that the project has been created and from the project "DASHBOARD" you will need to enable the following APIs:
 
@@ -90,7 +95,8 @@ The Google Docs API has now been enabled. Please, repeat the same process for th
 
 The following instructions assume that you have completed steps 1 to 4 of the "Instructions for Setting Up Jupyter Notebooks To Output to Google Docs" in the previous section. Please, remember that using a Service Account for creating Credentials is optional and you can use the alternative method proposed in this document, the OAuth 2.0 authorization method.
 
-## Step 1: Create a Service Account[<div style="text-align: right; font-size: 9px">Go to Table of Contents</div>](#table-of-contents)
+## Step 1: Create a Service Account
+<p align="right"><a href="#table-of-contents">Go to Table of Contents</a></p>
 
 **Note:** We cover the creation of credentials on a machine-to-machine account basis, storing the credentials on the hard drive of the local computer that is executing the Ultraviolet Jupyter Notebooks (Clients may opt for a different form of managing Service Account Credentials).
 
@@ -124,7 +130,8 @@ After clicking the "DONE" button in the "Create service account" section you wil
 <br>
 <br>
 
-## Step 2: Create Credentials[<div style="text-align: right; font-size: 9px">Go to Table of Contents</div>](#table-of-contents)
+## Step 2: Create Credentials
+<p align="right"><a href="#table-of-contents">Go to Table of Contents</a></p>
 
 After creating a service account, click on the account to see its properties. At the top of the service account landing page, click on "KEYS" and select the "ADD KEY" drop-down menu.
 
@@ -214,7 +221,8 @@ Name the application as Ultraviolet, and then click on the "CREATE" button.
 <br>
 <br>
 
-## Step 3: Download OAuth 2.0 JSON Credentials File[<div style="text-align: right; font-size: 9px">Go to Table of Contents</div>](#table-of-contents)
+## Step 3: Download OAuth 2.0 JSON Credentials File
+<p align="right"><a href="#table-of-contents">Go to Table of Contents</a></p>
 
 Once you have created the OAuth Client you can download the JSON file containing the OAuth 2.0 Credentials.
 
