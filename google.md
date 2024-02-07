@@ -156,7 +156,8 @@ OAuth Credentials can only be obtained once you have created a Consent Screen. T
 In the following step, you will be guided on how to create the Consent Screen for using the Ultraviolet application.
 <br>
 
-## Step 1: Create the Consent Screen[<div style="text-align: right; font-size: 9px">Go to Table of Contents</div>](#table-of-contents)
+## Step 1: Create the Consent Screen
+<p align="right"><a href="#table-of-contents">Go to Table of Contents</a></p>
 
 To create the Application Consent Screen, please access your project dashboard screen and click on the hamburger menu in the upper left corner next to the Google Cloud Logo, then select "APIs & Services" and click on "OAuth consent screen".
 
@@ -192,7 +193,7 @@ Now you can click on "BACK TO DASHBOARD".
 <br>
 
 ## Step 2: Create the OAuth 2.0 Credentials
-<p align="right"><small><a href="#table-of-contents">My text here</a></small></p>
+<p align="right"><a href="#table-of-contents">Go to Table of Contents</a></p>
 
 
 Once you have finished the consent screen definition, you can click on "BACK TO DASHBOARD" and select the "Credentials" option in the left menu. 
