@@ -192,9 +192,8 @@ Now you can click on "BACK TO DASHBOARD".
 <br>
 
 ## Step 2: Create the OAuth 2.0 Credentials
-<p align="right"><a href="#table-of-contents"><small>My text here</small></a></p>
+<p align="right"><small><a href="#table-of-contents">My text here</a></small></p>
 
-</p>
 
 Once you have finished the consent screen definition, you can click on "BACK TO DASHBOARD" and select the "Credentials" option in the left menu. 
 
