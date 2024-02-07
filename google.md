@@ -192,7 +192,7 @@ Now you can click on "BACK TO DASHBOARD".
 <br>
 
 ## Step 2: Create the OAuth 2.0 Credentials
-<p align="right"><a href="#table-of-contents">My text here</a></p>
+<p align="right"><a href="#table-of-contents"><small>My text here</small></a></p>
 
 </p>
 
